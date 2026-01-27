@@ -40,6 +40,15 @@ public class PosterRepository {
         items = tmp;
     }
 
+//    public PosterItem[] findLast() {
+//        int resultLength;
+//        if (items.length >= items) {
+//            resultLength = items;
+//        } else {
+//            resultLength = items.length;
+//        }
+//    }
+
     /**
      * Выводит все фильмы в порядке возрастания их id
      */
